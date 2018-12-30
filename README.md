@@ -17,7 +17,7 @@ react-native run-android
 
 
 ### video:
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KR9miSlt95k&feature=youtu.be "Audi R8")
+[![Final Test Arkademy](https://www.youtube.com/watch?v=KR9miSlt95k&feature=youtu.be)](https://www.youtube.com/watch?v=KR9miSlt95k&feature=youtu.be "Final Test Arkademy")
 
 
 link download:
