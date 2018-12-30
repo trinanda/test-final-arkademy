@@ -9,7 +9,10 @@ npm install
 react-native run-android
 ```
 
-screenshot:
+
+###screenshot:
+
+
 ![alt text](https://raw.githubusercontent.com/trinanda/test-final-arkademy/master/src/media/ss.png)
 
 
