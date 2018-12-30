@@ -17,7 +17,7 @@ react-native run-android
 
 
 ### video:
-[![Final Test Arkademy]("./src/media/ss.pngs")]("./src/media/video.mkv" "Final Test Arkademy")
+[![Final Test Arkademy]("/src/media/ss.png")](https://www.youtube.com/watch?v=KR9miSlt95k&feature=youtu.be "Final Test Arkademy")
 
 
 link download:
