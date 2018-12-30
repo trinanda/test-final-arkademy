@@ -1,1 +1,10 @@
-Arkademy-project-minggu-ke-2
+test final Arkademy
+
+
+```
+npm install
+```
+
+```
+react-native run-android
+```
