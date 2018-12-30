@@ -23,7 +23,7 @@ const AppNavigator = createStackNavigator({
   
 }, {
     headerMode: 'none',
-    initialRouteName: 'testFlex',
+    initialRouteName: 'Homepage',
 });
 
 export default createAppContainer(AppNavigator);
