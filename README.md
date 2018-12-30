@@ -17,9 +17,8 @@ react-native run-android
 
 
 ### video:
-<video width="320" height="240" controls>
-  <source src="./src/media/video.mkv" type="video/mp4">
-</video>
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
 
 link download:
 http://www.mediafire.com/file/2kzxgbbuvlckivk/app-debug.apk/file
